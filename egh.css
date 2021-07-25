@@ -1,0 +1,171 @@
+.body2{
+  background-image: url('https://i.pinimg.com/originals/dd/97/a0/dd97a01c01af74c6fbc7e3bf3753dae9.jpg');
+
+  background-repeat: no-repeat;
+
+  background-size: 100%;
+
+}
+.body1{
+  background-image: url('https://lh3.googleusercontent.com/proxy/rgpioScU0IvPsS2hME460n4IUqiMsPhj0j825WBQNpgZI5tJc7ST4464MZwo-kBD2IenpIffV2EJsiSOZCWBa5bxnbDwmFwsYkzglSHuu29FMrFfj_vcS4Fpn6bZ_SFYru15AsGmSoFEDbamdTYhpg');
+   background-repeat :no-repeat;
+   background-size: 100%;
+}
+body{
+
+ background-image: url('https://media.istockphoto.com/videos/multicolored-motion-gradient-background-video-id898393184?s=640x640');
+
+ background-repeat: no-repeat;
+
+ background-size: 100%;
+
+ }
+ .siz{
+   margin-top: 20px;
+   margin-left: 10px;
+   height:170px;
+   width:135px;
+
+ }
+ .width{
+   width: 100%;
+ }
+ .center {
+   text-align: center;
+   margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.pup2{
+  color: blue;
+  text-decoration-color: blue;
+  font-size: 30px;
+}
+#block1
+{
+    background-color: #000000;
+    padding: 30px;
+    width: 1300px;
+}
+.pup{
+  color: orange;
+  text-decoration-color: pink;
+  font-size: 40px;
+  font-family:monospace;
+}
+.pup5{
+  color: yellow;
+  text-decoration-color: pink;
+  font-size: 50px;
+  font-family:monospace;
+}
+.myDiv {
+  /*border: 5px inset black;
+  border-style:;*/
+/*  border-radius: 5px;*/
+  background-color: yellow;
+  text-align: left;
+  text-top -margin:px;
+/*  text-decoration-color: black;*/
+margin-top:-8px;
+margin-left: -10px;
+margin-right: -10px;
+margin-bottom: auto;
+height: 50px;
+padding: 25px;
+padding-left: 20px
+padding-top: 10px;
+padding-bottom: 5px;
+}
+.text{
+	color: yellow;
+	text-decoration-color: red;
+
+}
+.text3{
+	color: blue;
+	text-decoration-color: blue;
+font-size: 18px;
+
+}
+.body4{
+  background:url('https://www.teahub.io/photos/full/100-1008185_wallpaper-linear-yellow-gradient-blue-gold-navy-blue.jpg');
+  background-repeat :no-repeat;
+  background-size: 600%;
+}
+.text1{
+  text-align: center;
+	color: blue;
+	text-decoration-color: yellow;
+font-style: italic;
+font-weight: bold;
+font-size: 30px;}
+#block2
+{    text-decoration-color: black;
+    background-color:pink;
+    border-style: solid;
+    /*margin: 10px 10px;*/
+    /*padding: 30px;*/
+    width: 338px;
+  height: 218px;}
+.m1 {
+
+  position: absolute;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  bottom: 5px;
+  color: red;
+  text-decoration-color: red;
+  background-color: yellow;
+  font-style: bold;
+}
+.text2{
+  color: black;
+  text-decoration-color: red;
+}
+.eg1{
+  background-color: black;
+}
+.eg2{
+  background-color:#F4B990;
+}
+.navbar {
+
+  overflow: hidden;
+  background-color: #333;
+}
+.nav_bar{
+
+  width:10000px; //Change this to the actual width of the page content
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+/* Right-aligned link */
+.navbar a.right {
+  float: right;
+
+}
+
+/* Change color on hover */
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+html, body {
+margin: auto;
+    overflow-x: hidden;
+}
